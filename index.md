@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 - Star Wars Survey](/8 - 6 Star Wars Survey.ipynb)
+[Project 1 - Star Wars Survey](/8 - 6 Star Wars Survey.md)
 
 
 ---
