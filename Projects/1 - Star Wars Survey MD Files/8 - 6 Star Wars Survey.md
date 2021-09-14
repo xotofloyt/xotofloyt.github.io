@@ -1,6 +1,6 @@
 # Star Wars Survey
 
-Return to main profile: <a href='https://xotofloyt.github.io/'>
+[Return to main profile:](https://xotofloyt.github.io/)
 
 This a survey performed by fivethirtyeight https://fivethirtyeight.com/, in order to answer some questions about the Star Wars franchise. The survey was conducted on survey monkey and was mainly aimed at Star Wars fans. Below, the data is loaded, cleaned and analyzed and some insight can be gained from the results.
 
