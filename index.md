@@ -4,7 +4,7 @@
 
 ### Data Cleaning 
 
-[Project 1 - Star Wars Survey](/8 - 6 Star Wars Survey.md)
+[Project 1 - Star Wars Survey](Projects/1 - Star Wars Survey MD Files/8 - 6 Star Wars Survey.md)
 
 
 ---
