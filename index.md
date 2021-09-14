@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Cleaning 
 
 [Project 1 - Star Wars Survey](/8 - 6 Star Wars Survey.md)
 
