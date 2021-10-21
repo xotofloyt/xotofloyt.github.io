@@ -19,3 +19,9 @@
 [Most Popular Data Science Topics](Projects/4 - Popular Data Science Questions/Popular Data Science Questions.html)
 
 ---
+
+### SQL Data Analysis and Answering questions:
+---
+[Answering Business Questions with SQL](Projects/5 - Answering Business Questions with SQL/5 - Answering Business Questions Using SQL.html)
+
+---
