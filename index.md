@@ -20,7 +20,7 @@
 
 ---
 
-### SQL Data Analysis and Answering questions:
+### Data Analysis and Answering Business Questions with SQL:
 
 [Answering Business Questions with SQL](Projects/5 - Answering Business Questions with SQL/5 - Answering Business Questions Using SQL.html)
 
