@@ -29,6 +29,7 @@
 ### Machine learning model deployment on Flask and Heroku:
 
 An exercise to deploy a logistic regression model by using the Flask frame work on Heroku.
+
 [Model to predict college admission based on previous admission data](https://university-admission-app.herokuapp.com/)
 
 ---
