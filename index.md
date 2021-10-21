@@ -8,20 +8,27 @@
 
 ---
 ### Data Visualization Practice Projects: 
----
+
 [Visualizing Earning Based on College Major](Projects/2-Visualizing Earning Based on Major/2-Guided Project - Visualizing Earnings .html)
 
 [Vizualizing Gender Pay Gap for College Majors](Projects/3-Vizualizing Gender Pay Gap for College Majors/3-Guided Project - Visualizing The Gender Gap In College Degrees.html)
 
 ---
 ### Data Analysis and Visualization Practice:
----
+
 [Most Popular Data Science Topics](Projects/4 - Popular Data Science Questions/Popular Data Science Questions.html)
 
 ---
 
 ### SQL Data Analysis and Answering questions:
----
+
 [Answering Business Questions with SQL](Projects/5 - Answering Business Questions with SQL/5 - Answering Business Questions Using SQL.html)
+
+---
+
+### Machine learning model deployment on Flask and Heroku:
+
+An exercise to deploy a logistic regression model by using the Flask frame work on Heroku.
+[Model to predict college admission based on previous admission data](https://university-admission-app.herokuapp.com/)
 
 ---
