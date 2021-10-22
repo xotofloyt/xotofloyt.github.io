@@ -28,7 +28,7 @@
 
 ### Machine learning model deployment on Flask and Heroku:
 
-Building a simple logisitic regression model to predict college admissions by using GPA and GRE test scores, based on previous admission results and then deploying the model on Heroku using the Flask framework.
+Building a simple logisitic regression model to predict college admissions by using GPA and GRE test scores, based on previous admission results and then deploying the model on Heroku using the Flask framework. I completed this project during my internship with Data Glacier.
 
 [Model to predict college admission based on previous admission data](https://university-admission-app.herokuapp.com/)
 
