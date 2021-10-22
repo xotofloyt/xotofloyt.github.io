@@ -25,6 +25,11 @@
 [Answering Business Questions with SQL](Projects/5 - Answering Business Questions with SQL/5 - Answering Business Questions Using SQL.html)
 
 ---
+### Data Wrangling - Analysis and Visualization for Business Insights:
+
+[Go to Market Strategy for Investment in the Cab Industry](Projects/6 - G2M Cab Data Insights/G2M insight.html)
+
+---
 
 ### Machine learning model deployment on Flask and Heroku:
 
